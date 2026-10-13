@@ -22,7 +22,7 @@ FEED_URLS = (
     "https://www.perfil.com/feed/politica",
     "https://www.perfil.com/feed/economia",
 )
-KEYWORDS = ("lacunza", "la rioja", "riojano", "riojana")
+KEYWORDS = ("lacunza", "pro", "la rioja", "riojano", "riojana")
 MAX_ITEMS = 12
 
 
