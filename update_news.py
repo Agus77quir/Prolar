@@ -15,7 +15,8 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parent
+
 OUTPUT = ROOT / "data" / "news.json"
 FEED_URLS = (
     "https://www.perfil.com/feed/politica",
