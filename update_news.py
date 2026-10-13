@@ -70,8 +70,12 @@ def main() -> int:
         link = text_of(entry, "link")
         if not title or not link:
             continue
-        if not any(word in title.casefold() for word in KEYWORDS):
+        if not (
+            any(word in title.casefold() for word in KEYWORDS)
+            or re.search(r"\bPRO\b", title, re.IGNORECASE)
+        ):
             continue
+            
         if not re.match(r"^https://(?:[a-z0-9-]+\.)*perfil\.com/", link, re.I):
             continue
         if link in seen:
