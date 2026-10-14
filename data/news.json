@@ -1,8 +1,43 @@
 {
-  "updatedAt": "2026-10-13T16:31:46-03:00",
-  "updatedLabel": "13/10/2026 16:31",
+  "updatedAt": "2026-10-14T08:35:53-03:00",
+  "updatedLabel": "14/10/2026 08:35",
   "source": "Perfil — canales RSS de Política y Economía",
   "items": [
+    {
+      "title": "Ley de Tierras: denuncian que una inmobiliaria intentó vender un campo “con lago propio” durante la ventana de tiempo que otorgó la Corte",
+      "url": "https://www.perfil.com/noticias/politica/ley-de-tierras-denuncian-que-una-inmobiliaria-intento-vender-un-campo-con-lago-propio-durante-la-ventana-de-tiempo-que-otorgo-la-corte.phtml",
+      "source": "Perfil",
+      "publishedAt": "2026-10-14T08:30:00+00:00",
+      "publishedLabel": "14/10/2026"
+    },
+    {
+      "title": "El dato de 1,9% en el IPC plantea interrogantes en el proceso de desinflación que busca el Gobierno",
+      "url": "https://www.perfil.com/noticias/economia/el-dato-de-19-en-el-ipc-plantea-interrogantes-en-el-proceso-de-desinflacion-que-busca-el-gobierno-a40.phtml",
+      "source": "Perfil",
+      "publishedAt": "2026-10-14T08:30:00+00:00",
+      "publishedLabel": "14/10/2026"
+    },
+    {
+      "title": "Tensión con Chile por Malvinas: la propuesta del peronismo desató la reacción del partido de Kast",
+      "url": "https://www.perfil.com/noticias/politica/tension-con-chile-por-malvinas-la-propuesta-del-peronismo-desato-la-reaccion-del-partido-de-kast.phtml",
+      "source": "Perfil",
+      "publishedAt": "2026-10-13T23:19:00+00:00",
+      "publishedLabel": "13/10/2026"
+    },
+    {
+      "title": "Federico Glustein en RDEco: “Probablemente tengamos un crecimiento anual en torno al 1,5, 1,7”.",
+      "url": "https://www.perfil.com/noticias/masperfil/en-rdeco-advierten-sobre-la-inflacion-la-recesion-y-la-caida-de-la-actividad-economica.phtml",
+      "source": "Perfil",
+      "publishedAt": "2026-10-13T22:28:51+00:00",
+      "publishedLabel": "13/10/2026"
+    },
+    {
+      "title": "Karina Milei busca destrabar la agenda legislativa entre la tensión con Bullrich y los reclamos provinciales",
+      "url": "https://www.perfil.com/noticias/politica/la-mesa-politica-avanza-en-el-diseno-de-la-agenda-legislativa-en-medio-de-tensiones.phtml",
+      "source": "Perfil",
+      "publishedAt": "2026-10-13T20:38:55+00:00",
+      "publishedLabel": "13/10/2026"
+    },
     {
       "title": "Día de la Madre 2026: banco por banco, los descuentos y reintegros para aprovechar antes del domingo",
       "url": "https://www.perfil.com/noticias/economia/dia-de-la-madre-2026-banco-por-banco-los-descuentos-y-reintegros-para-aprovechar-antes-del-domingo.phtml",
@@ -51,41 +86,6 @@
       "source": "Perfil",
       "publishedAt": "2026-10-13T15:37:00+00:00",
       "publishedLabel": "13/10/2026"
-    },
-    {
-      "title": "Melconian: “El problema del Gobierno es que cree que todo marcha de acuerdo a lo previsto”",
-      "url": "https://www.perfil.com/noticias/cordoba/melconian-el-problema-del-gobierno-es-que-cree-que-todo-marcha-de-acuerdo-a-lo-previsto.phtml",
-      "source": "Perfil",
-      "publishedAt": "2026-10-13T12:05:00+00:00",
-      "publishedLabel": "13/10/2026"
-    },
-    {
-      "title": "La CGT revindicó el \"Día del Respeto a la Diversidad Cultural\" y llamó burda provocación el \"Día de la Raza\" que restituyó Milei",
-      "url": "https://www.perfil.com/noticias/politica/la-cgt-definio-como-una-burda-provocacion-el-dia-de-la-raza-que-restituyo-milei-y-revindico-el-dia-del-respeto-a-la-diversidad-cultural.phtml",
-      "source": "Perfil",
-      "publishedAt": "2026-10-13T08:40:00+00:00",
-      "publishedLabel": "13/10/2026"
-    },
-    {
-      "title": "El FMI espera que Argentina crezca un 2,1% en 2026, casi la mitad de lo que proyectaba hace un año",
-      "url": "https://www.perfil.com/noticias/economia/el-fmi-espera-que-argentina-crezca-un-21-en-2026-casi-la-mitad-de-lo-que-proyectaba-hace-un-ano.phtml",
-      "source": "Perfil",
-      "publishedAt": "2026-10-13T08:33:26+00:00",
-      "publishedLabel": "13/10/2026"
-    },
-    {
-      "title": "El Gobierno le prohibió el ingreso a la Argentina a un periodista brasileño que había criticado a Milei",
-      "url": "https://www.perfil.com/noticias/politica/el-gobierno-le-prohibio-el-ingreso-a-la-argentina-a-un-periodista-brasileno-que-habia-criticado-a-milei.phtml",
-      "source": "Perfil",
-      "publishedAt": "2026-10-13T00:13:46+00:00",
-      "publishedLabel": "12/10/2026"
-    },
-    {
-      "title": "Romper la trampa fiscal: un acuerdo entre todos para defender el empleo y la producción",
-      "url": "https://www.perfil.com/noticias/economia/romper-la-trampa-fiscal-un-acuerdo-entre-todos-para-defender-el-empleo-y-la-produccion.phtml",
-      "source": "Perfil",
-      "publishedAt": "2026-10-12T22:42:24+00:00",
-      "publishedLabel": "12/10/2026"
     }
   ]
 }
