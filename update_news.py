@@ -21,8 +21,6 @@ OUTPUT = ROOT / "data" / "news.json"
 FEED_URLS = (
     "https://www.perfil.com/feed/politica",
     "https://www.perfil.com/feed/economia",
-    "https://www.lanacion.com.ar/",
-    "https://www.lanacion.com.ar/",
 )
 KEYWORDS = ("lacunza", "pro", "la rioja", "riojano", "riojana")
 MAX_ITEMS = 12
