@@ -25,7 +25,7 @@ FEED_URLS = (
     "https://www.lanacion.com.ar/economia",
 )
 KEYWORDS = ("lacunza", "pro", "la rioja", "riojano", "riojana")
-MAX_ITEMS = 8
+MAX_ITEMS = 12
 
 
 def text_of(parent: ET.Element, name: str) -> str:
