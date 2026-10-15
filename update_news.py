@@ -313,15 +313,38 @@ def main() -> int:
     for item in all_items:
         deduplicated.setdefault(item["url"], item)
 
-    items = sorted(
+    fresh_items = sorted(
         deduplicated.values(),
-        key=lambda item: item["_sort"],
+        key=lambda item: item.get("_sort", 0.0),
         reverse=True,
-    )[:MAX_ITEMS]
+    )
 
+    # Keep the most recent saved headlines when today's sources return none,
+    # and fill remaining slots with older saved items when only a few are new.
+    previous_items = []
+    if OUTPUT.exists():
+        try:
+            previous_data = json.loads(OUTPUT.read_text(encoding="utf-8"))
+            if isinstance(previous_data, dict) and isinstance(previous_data.get("items"), list):
+                previous_items = [
+                    dict(item)
+                    for item in previous_data["items"]
+                    if isinstance(item, dict) and item.get("url") and item.get("title")
+                ]
+        except (OSError, json.JSONDecodeError):
+            previous_items = []
+
+    merged_items = list(fresh_items)
+    seen_urls = {item["url"] for item in fresh_items}
+    for item in previous_items:
+        if item["url"] not in seen_urls:
+            merged_items.append(item)
+            seen_urls.add(item["url"])
+
+    items = merged_items[:MAX_ITEMS]
     for item in items:
         item.pop("_sort", None)
-
+      
     result = {
         "updatedAt": now.isoformat(timespec="seconds"),
         "updatedLabel": now.strftime("%d/%m/%Y %H:%M"),
