@@ -2782,23 +2782,22 @@ window.va = window.va || function () {
   <div class="news-wrap">
     <p class="news-kicker">Actualización automática</p>
     <h2 id="actualidad-auto-title">Noticias relacionadas</h2>
-    <p class="news-meta" id="news-updated">Cargando titulares…</p>
-    <div class="news-grid" id="news-list" aria-live="polite"></div>
+    <div class="news-grid" id="news-list" aria-live="polite">
+      <article class="news-card"><a href="https://www.clarin.com/politica/maximo-kirchner-comparo-milei-macri-advirtio-ganamos-elecciones-auditara-rigi_0_w7z6RvGCgo.html" target="_blank" rel="noopener noreferrer">Máximo Kirchner comparó a Milei con Macri y advirtió: “Si ganamos las elecciones se auditará cada uno de los RIGI”</a><p class="news-meta">Clarín · 14/10/2026</p></article>
+      <article class="news-card"><a href="https://www.perfil.com/noticias/politica/jorge-macri-evalua-que-las-elecciones-portenas-sean-en-octubre-junto-con-las-nacionales.phtml" target="_blank" rel="noopener noreferrer">Jorge Macri evalúa que las elecciones porteñas sean en octubre junto con las nacionales</a><p class="news-meta">Perfil · 12/10/2026</p></article>
+      <article class="news-card"><a href="https://www.perfil.com/noticias/politica/de-regreso-a-octubre-la-disputa-de-milei-el-peronismo-y-el-pro-por-las-reglas-de-2027.phtml" target="_blank" rel="noopener noreferrer">De regreso a octubre: la disputa de Milei, el peronismo y el PRO por las reglas de 2027</a><p class="news-meta">Perfil · 12/10/2026</p></article>
+    </div>
   </div>
 </section>
 <footer class="bg-background border-t border-border text-foreground/80 pt-14 sm:pt-20 pb-10 scroll-mt-20" id="contacto"><div class="max-w-7xl mx-auto px-4 sm:px-5 lg:px-8 pt-6"><div class="grid md:grid-cols-2 gap-8"><div><a class="font-extrabold text-xl" href="#inicio">PRO La Rioja</a><p class="mt-3 max-w-xl text-sm text-muted-foreground">Página informativa sobre el PRO a nivel nacional, la intención de Hernán Lacunza de competir como precandidato presidencial y las noticias relacionadas con el PRO en nuestra ciudad y en la provincia de La Rioja.</p></div><div><h3 class="font-bold mb-3">Secciones</h3><ul class="space-y-2 text-sm"><li><a href="#inicio">Inicio</a></li><li><a href="#propuestas">Temas mencionados</a></li><li><a href="#noticias">Fuentes periodísticas</a></li><li><a href="#quienes-somos">Trayectoria</a></li></ul></div></div><div class="mt-8 pt-5 border-t border-border text-xs text-muted-foreground">© 2026 PRO La Rioja. Todos los derechos reservados.</div></div></footer></div><script>
 (async function(){
-  const status=document.getElementById("news-updated");
   const list=document.getElementById("news-list");
   try {
     const response=await fetch("./data/news.json",{cache:"no-store"});
     if(!response.ok) throw new Error("news data unavailable");
     const data=await response.json();
-    status.textContent="Última búsqueda: "+(data.updatedLabel||"sin fecha")+" · Fuentes: "+(data.source||"medios consultados")+".";
-    if(!Array.isArray(data.items)||data.items.length===0){
-      const empty=document.createElement("p"); empty.className="news-status";
-      empty.textContent="No se encontraron titulares recientes sobre estos temas en las fuentes consultadas."; list.appendChild(empty); return;
-    }
+    if(!Array.isArray(data.items)||data.items.length===0) return;
+    list.replaceChildren();
     data.items.slice(0,5).forEach(item=>{
       const card=document.createElement("article"); card.className="news-card";
       const link=document.createElement("a"); link.href=item.url; link.target="_blank"; link.rel="noopener noreferrer"; link.textContent=item.title;
@@ -2806,8 +2805,7 @@ window.va = window.va || function () {
       card.append(link,meta); list.appendChild(card);
     });
   } catch(e) {
-    status.textContent="No se pudieron cargar los titulares automáticos.";
-    const fallback=document.createElement("p"); fallback.className="news-status"; fallback.textContent="La información de la página sigue disponible; probá más tarde."; list.appendChild(fallback);
+    // Si no hay nuevos datos o falla la consulta, quedan visibles las noticias guardadas en el HTML.
   }
 })();
 </script>
