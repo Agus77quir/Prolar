@@ -1,8 +1,15 @@
 {
-  "updatedAt": "2026-10-16T08:09:00-03:00",
-  "updatedLabel": "16/10/2026 08:09",
-  "source": "NoticiasNQN — Clarín — Perfil — titulares y enlaces",
+  "updatedAt": "2026-10-16T14:46:28-03:00",
+  "updatedLabel": "16/10/2026 14:46",
+  "source": "Perfil, Clarín, Nueva Rioja, El Independiente — titulares y enlaces",
   "items": [
+    {
+      "title": "Jorge Macri prometió cazar a los \"zurdos infiltrados\" y el Gobierno denunció un ataque terrorista al Congreso",
+      "url": "https://www.perfil.com/noticias/politica/jorge-macri-prometio-cazar-a-los-zurdos-infiltrados-y-el-gobierno-denuncio-un-ataque-terrorista-al-congreso.phtml",
+      "source": "Perfil",
+      "publishedAt": "2026-10-16T01:07:56+00:00",
+      "publishedLabel": "15/10/2026"
+    },
     {
       "title": "Hernán Lacunza expresó su intención de competir por la Presidencia en 2027",
       "url": "https://www.noticiasnqn.com.ar/noticias/2026/10/14/356577-hernan-lacunza-lanzo-su-candidatura-presidencial-en-neuquen-y-planteo-una-alternativa-a-la-polarizacion-politica",
