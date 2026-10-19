@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-10-18T14:01:28-03:00",
-  "updatedLabel": "18/10/2026 14:01",
+  "updatedAt": "2026-10-19T16:35:55-03:00",
+  "updatedLabel": "19/10/2026 16:35",
   "source": "Perfil, Clarín, Nueva Rioja, El Independiente — titulares y enlaces",
   "items": [
+    {
+      "title": "RDI: el gobierno de Javier Milei se encuentra “muy por encima de los mandatos de Cristina y Macri” en cuanto al uso del DNU",
+      "url": "https://www.perfil.com/noticias/masperfil/rdi-javier-milei-se-encuentra-muy-por-encima-de-los-mandatos-de-cristina-y-macri-en-cuanto-al-uso-del-dnu.phtml",
+      "source": "Perfil",
+      "publishedAt": "2026-10-19T18:00:16+00:00",
+      "publishedLabel": "19/10/2026"
+    },
+    {
+      "title": "Jorge Macri busca ganar peso en la agenda internacional durante el II Encuentro de Ciudades Iberoamericanas en Madrid",
+      "url": "https://www.perfil.com/noticias/ciudad-de-buenos-aires/jorge-macri-busca-ganar-peso-en-la-agenda-internacional-durante-el-ii-encuentro-de-ciudades-iberoamericanas-en-madrid.phtml",
+      "source": "Perfil",
+      "publishedAt": "2026-10-19T12:50:27+00:00",
+      "publishedLabel": "19/10/2026"
+    },
+    {
+      "title": "El PRO vuelve a reunirse con La Libertad Avanza, pero crece la desconfianza sobre un acuerdo",
+      "url": "https://www.clarin.com/politica/pro-vuelve-reunirse-libertad-avanza-crece-desconfianza-acuerdo_0_Vp6zJtYasy.html",
+      "source": "Clarín",
+      "publishedAt": "2026-10-19T09:00:16+00:00",
+      "publishedLabel": "19/10/2026"
+    },
     {
       "title": "LLA y el PRO buscan resucitar un acuerdo cruzado por las internas de ambos partidos",
       "url": "https://www.perfil.com/noticias/politica/lla-y-el-pro-buscan-resucitar-un-acuerdo-cruzado-por-las-internas-de-ambos-partidos.phtml",
@@ -16,27 +37,6 @@
       "source": "Clarín",
       "publishedAt": "2026-10-17T19:36:09+00:00",
       "publishedLabel": "17/10/2026"
-    },
-    {
-      "title": "Jorge Macri prometió cazar a los \"zurdos infiltrados\" y el Gobierno denunció un ataque terrorista al Congreso",
-      "url": "https://www.perfil.com/noticias/politica/jorge-macri-prometio-cazar-a-los-zurdos-infiltrados-y-el-gobierno-denuncio-un-ataque-terrorista-al-congreso.phtml",
-      "source": "Perfil",
-      "publishedAt": "2026-10-16T01:07:56+00:00",
-      "publishedLabel": "15/10/2026"
-    },
-    {
-      "title": "Hernán Lacunza expresó su intención de competir por la Presidencia en 2027",
-      "url": "https://www.noticiasnqn.com.ar/noticias/2026/10/14/356577-hernan-lacunza-lanzo-su-candidatura-presidencial-en-neuquen-y-planteo-una-alternativa-a-la-polarizacion-politica",
-      "source": "NoticiasNQN",
-      "publishedAt": "2026-10-14T00:00:00-03:00",
-      "publishedLabel": "14/10/2026"
-    },
-    {
-      "title": "Máximo Kirchner comparó a Milei con Macri y advirtió: \"Si ganamos las elecciones se auditará cada uno de los RIGI\"",
-      "url": "https://www.clarin.com/politica/maximo-kirchner-comparo-milei-macri-advirtio-ganamos-elecciones-auditara-rigi_0_w7z6RvGCgo.html",
-      "source": "Clarín",
-      "publishedAt": "2026-10-14T13:23:46+00:00",
-      "publishedLabel": "14/10/2026"
     }
   ]
 }
