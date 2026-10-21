@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-20T15:13:55-03:00",
-  "updatedLabel": "20/10/2026 15:13",
+  "updatedAt": "2026-10-21T15:19:44-03:00",
+  "updatedLabel": "21/10/2026 15:19",
   "source": "Perfil, Clarín, Nueva Rioja, El Independiente — titulares y enlaces",
   "items": [
+    {
+      "title": "Paro del subte: Jorge Macri habló de “orden” y los gremios presionaron hasta que liberaron a los metrodelegados",
+      "url": "https://www.perfil.com/noticias/politica/paro-del-subte-jorge-macri-habla-de-orden-y-los-gremios-advierten-que-la-medida-continuara-hasta-que-liberen-a-los-metrodelegados.phtml",
+      "source": "Perfil",
+      "publishedAt": "2026-10-20T15:56:00+00:00",
+      "publishedLabel": "20/10/2026"
+    },
+    {
+      "title": "Archivaron definitivamente la causa contra Mauricio Macri y Luis Caputo por el acuerdo con el FMI",
+      "url": "https://www.perfil.com/noticias/judiciales/archivaron-definitivamente-la-causa-contra-mauricio-macri-y-luis-caputo-por-el-acuerdo-con-el-fmi.phtml",
+      "source": "Perfil",
+      "publishedAt": "2026-10-20T09:45:00+00:00",
+      "publishedLabel": "20/10/2026"
+    },
     {
       "title": "\"José Luis Borges\", el fallido que repitió Jorge Macri en un acto por el legado del escritor argentino en España",
       "url": "https://www.clarin.com/politica/jose-luis-borges-fallido-repitio-jorge-macri-acto-legado-escritor-argentino-espana_0_wKKkUGWCEL.html",
@@ -11,24 +25,10 @@
       "publishedLabel": "20/10/2026"
     },
     {
-      "title": "Paro del subte: Jorge Macri habla de “orden” y los gremios advierten que la medida continuará hasta que liberen a los metrodelegados",
-      "url": "https://www.perfil.com/noticias/politica/paro-del-subte-jorge-macri-habla-de-orden-y-los-gremios-advierten-que-la-medida-continuara-hasta-que-liberen-a-los-metrodelegados.phtml",
-      "source": "Perfil",
-      "publishedAt": "2026-10-20T15:56:00+00:00",
-      "publishedLabel": "20/10/2026"
-    },
-    {
       "title": "\"El que bloquea un servicio esencial va preso\": la advertencia de Jorge Macri tras las detenciones de metrodelegados por el paro de subtes",
       "url": "https://www.clarin.com/ciudades/bloquea-servicio-esencial-va-preso-advertencia-jorge-macri-detenciones-metrodelegados-paro-subtes_0_FSJLI5NNDQ.html",
       "source": "Clarín",
       "publishedAt": "2026-10-20T15:14:08+00:00",
-      "publishedLabel": "20/10/2026"
-    },
-    {
-      "title": "Archivaron definitivamente la causa contra Mauricio Macri y Luis Caputo por el acuerdo con el FMI",
-      "url": "https://www.perfil.com/noticias/judiciales/archivaron-definitivamente-la-causa-contra-mauricio-macri-y-luis-caputo-por-el-acuerdo-con-el-fmi.phtml",
-      "source": "Perfil",
-      "publishedAt": "2026-10-20T09:45:00+00:00",
       "publishedLabel": "20/10/2026"
     },
     {
