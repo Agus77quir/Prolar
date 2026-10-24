@@ -1,8 +1,15 @@
 {
-  "updatedAt": "2026-10-23T15:02:51-03:00",
-  "updatedLabel": "23/10/2026 15:02",
+  "updatedAt": "2026-10-24T14:08:26-03:00",
+  "updatedLabel": "24/10/2026 14:08",
   "source": "Perfil, Clarín, Nueva Rioja, El Independiente — titulares y enlaces",
   "items": [
+    {
+      "title": "El plan B de Bullrich: candidatura, el juego con los Milei y el voto PRO republicano",
+      "url": "https://www.perfil.com/noticias/politica/el-plan-b-de-bullrich-candidatura-el-juego-con-los-milei-y-el-voto-pro-republicano.phtml",
+      "source": "Perfil",
+      "publishedAt": "2026-10-24T06:09:25+00:00",
+      "publishedLabel": "24/10/2026"
+    },
     {
       "title": "Paro del subte: Jorge Macri habló de “orden” y los gremios presionaron hasta que liberaron a los metrodelegados",
       "url": "https://www.perfil.com/noticias/politica/paro-del-subte-jorge-macri-habla-de-orden-y-los-gremios-advierten-que-la-medida-continuara-hasta-que-liberen-a-los-metrodelegados.phtml",
@@ -30,13 +37,6 @@
       "source": "Clarín",
       "publishedAt": "2026-10-20T15:14:08+00:00",
       "publishedLabel": "20/10/2026"
-    },
-    {
-      "title": "Jorge Macri se reunió con el rey Felipe VI en España y presentó una declaración sobre las prioridades de las ciudades",
-      "url": "https://www.perfil.com/noticias/politica/jorge-macri-se-reunio-con-el-rey-felipe-vi-en-espana-y-presento-una-declaracion-sobre-las-prioridades-de-las-ciudades.phtml",
-      "source": "Perfil",
-      "publishedAt": "2026-10-19T22:27:44+00:00",
-      "publishedLabel": "19/10/2026"
     }
   ]
 }
