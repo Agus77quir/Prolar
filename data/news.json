@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-24T14:08:26-03:00",
-  "updatedLabel": "24/10/2026 14:08",
+  "updatedAt": "2026-10-25T14:20:31-03:00",
+  "updatedLabel": "25/10/2026 14:20",
   "source": "Perfil, Clarín, Nueva Rioja, El Independiente — titulares y enlaces",
   "items": [
+    {
+      "title": "El riojano Quintela recorrió barrios populares junto a los curas villeros",
+      "url": "https://www.perfil.com/noticias/politica/el-riojano-quintela-recorrio-barrios-populares-junto-a-los-curas-villeros.phtml",
+      "source": "Perfil",
+      "publishedAt": "2026-10-25T05:17:49+00:00",
+      "publishedLabel": "25/10/2026"
+    },
+    {
+      "title": "La basura enfrenta a Moyano y Jorge Macri: millones en juego y el temor de las empresas",
+      "url": "https://www.perfil.com/noticias/politica/la-basura-enfrenta-a-moyano-y-jorge-macri-millones-en-juego-y-el-temor-de-las-empresas.phtml",
+      "source": "Perfil",
+      "publishedAt": "2026-10-25T04:51:40+00:00",
+      "publishedLabel": "25/10/2026"
+    },
     {
       "title": "El plan B de Bullrich: candidatura, el juego con los Milei y el voto PRO republicano",
       "url": "https://www.perfil.com/noticias/politica/el-plan-b-de-bullrich-candidatura-el-juego-con-los-milei-y-el-voto-pro-republicano.phtml",
@@ -22,20 +36,6 @@
       "url": "https://www.perfil.com/noticias/judiciales/archivaron-definitivamente-la-causa-contra-mauricio-macri-y-luis-caputo-por-el-acuerdo-con-el-fmi.phtml",
       "source": "Perfil",
       "publishedAt": "2026-10-20T09:45:00+00:00",
-      "publishedLabel": "20/10/2026"
-    },
-    {
-      "title": "\"José Luis Borges\", el fallido que repitió Jorge Macri en un acto por el legado del escritor argentino en España",
-      "url": "https://www.clarin.com/politica/jose-luis-borges-fallido-repitio-jorge-macri-acto-legado-escritor-argentino-espana_0_wKKkUGWCEL.html",
-      "source": "Clarín",
-      "publishedAt": "2026-10-20T16:38:24+00:00",
-      "publishedLabel": "20/10/2026"
-    },
-    {
-      "title": "\"El que bloquea un servicio esencial va preso\": la advertencia de Jorge Macri tras las detenciones de metrodelegados por el paro de subtes",
-      "url": "https://www.clarin.com/ciudades/bloquea-servicio-esencial-va-preso-advertencia-jorge-macri-detenciones-metrodelegados-paro-subtes_0_FSJLI5NNDQ.html",
-      "source": "Clarín",
-      "publishedAt": "2026-10-20T15:14:08+00:00",
       "publishedLabel": "20/10/2026"
     }
   ]
