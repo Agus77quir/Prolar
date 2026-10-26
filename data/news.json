@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-25T14:20:31-03:00",
-  "updatedLabel": "25/10/2026 14:20",
+  "updatedAt": "2026-10-26T16:40:48-03:00",
+  "updatedLabel": "26/10/2026 16:40",
   "source": "Perfil, Clarín, Nueva Rioja, El Independiente — titulares y enlaces",
   "items": [
+    {
+      "title": "El PRO felicitó a Lula por su triunfo y se diferenció de Javier Milei",
+      "url": "https://nuevarioja.com.ar/politica/el-pro-felicito-a-lula-por-su-triunfo-y-se-diferencio-de-javier-milei.htm",
+      "source": "Nueva Rioja",
+      "publishedAt": "",
+      "publishedLabel": ""
+    },
+    {
+      "title": "En medio del silencio de Milei, el PRO de Macri felicitó a Lula por su triunfo en Brasil",
+      "url": "https://www.perfil.com/noticias/politica/en-medio-del-silencio-de-milei-el-pro-de-macri-felicito-a-lula-por-su-triunfo-en-el-balotaje.phtml",
+      "source": "Perfil",
+      "publishedAt": "2026-10-26T14:17:49+00:00",
+      "publishedLabel": "26/10/2026"
+    },
     {
       "title": "El riojano Quintela recorrió barrios populares junto a los curas villeros",
       "url": "https://www.perfil.com/noticias/politica/el-riojano-quintela-recorrio-barrios-populares-junto-a-los-curas-villeros.phtml",
@@ -23,20 +37,6 @@
       "source": "Perfil",
       "publishedAt": "2026-10-24T06:09:25+00:00",
       "publishedLabel": "24/10/2026"
-    },
-    {
-      "title": "Paro del subte: Jorge Macri habló de “orden” y los gremios presionaron hasta que liberaron a los metrodelegados",
-      "url": "https://www.perfil.com/noticias/politica/paro-del-subte-jorge-macri-habla-de-orden-y-los-gremios-advierten-que-la-medida-continuara-hasta-que-liberen-a-los-metrodelegados.phtml",
-      "source": "Perfil",
-      "publishedAt": "2026-10-20T15:56:00+00:00",
-      "publishedLabel": "20/10/2026"
-    },
-    {
-      "title": "Archivaron definitivamente la causa contra Mauricio Macri y Luis Caputo por el acuerdo con el FMI",
-      "url": "https://www.perfil.com/noticias/judiciales/archivaron-definitivamente-la-causa-contra-mauricio-macri-y-luis-caputo-por-el-acuerdo-con-el-fmi.phtml",
-      "source": "Perfil",
-      "publishedAt": "2026-10-20T09:45:00+00:00",
-      "publishedLabel": "20/10/2026"
     }
   ]
 }
