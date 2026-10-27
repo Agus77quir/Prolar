@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-26T16:40:48-03:00",
-  "updatedLabel": "26/10/2026 16:40",
-  "source": "Perfil, Clarín, Nueva Rioja, El Independiente — titulares y enlaces",
+  "updatedAt": "2026-10-27T16:09:14-03:00",
+  "updatedLabel": "27/10/2026 16:09",
+  "source": "Perfil, Clarín, El Independiente — titulares y enlaces",
   "items": [
+    {
+      "title": "Juan Bautista Yofre: “Milei va a ser reelecto, Macri y Bullrich podrían ser embajadores”",
+      "url": "https://perfil.com/modo-fontevecchia/juan-bautista-yofre-milei-va-a-ser-reelecto-macri-y-bullrich-podrian-ser-embajadores-aF4491j3QptK",
+      "source": "Perfil",
+      "publishedAt": "2026-06-03T16:54:07+00:00",
+      "publishedLabel": "03/06/2026"
+    },
+    {
+      "title": "María Eugenia Talerico: “Necesitamos que Macri se plante y sea la alternativa a Milei”",
+      "url": "https://perfil.com/modo-fontevecchia/maria-eugenia-talerico-necesitamos-que-macri-se-plante-y-sea-la-alternativa-a-milei-modof-axveC6f59eDs",
+      "source": "Perfil",
+      "publishedAt": "2026-05-29T17:25:57+00:00",
+      "publishedLabel": "29/05/2026"
+    },
+    {
+      "title": "Pablo Petrecca: “Me encantaría una PASO entre Macri y Milei”",
+      "url": "https://perfil.com/modo-fontevecchia/pablo-petrecca-me-encantaria-una-paso-entre-el-macri-y-milei-a1hVA9c5YnO6",
+      "source": "Perfil",
+      "publishedAt": "2026-05-19T14:09:32+00:00",
+      "publishedLabel": "19/05/2026"
+    },
+    {
+      "title": "\"No es descartable que se junten Macri, Bullrich y Villarruel\", afirma un consultor",
+      "url": "https://perfil.com/modo-fontevecchia/no-es-descartable-que-se-junten-macri-bullrich-y-villarruel-afirma-un-consultor-modof-aKKUx0b4FRM5",
+      "source": "Perfil",
+      "publishedAt": "2026-05-18T16:11:50+00:00",
+      "publishedLabel": "18/05/2026"
+    },
     {
       "title": "El PRO felicitó a Lula por su triunfo y se diferenció de Javier Milei",
       "url": "https://nuevarioja.com.ar/politica/el-pro-felicito-a-lula-por-su-triunfo-y-se-diferencio-de-javier-milei.htm",
       "source": "Nueva Rioja",
       "publishedAt": "",
       "publishedLabel": ""
-    },
-    {
-      "title": "En medio del silencio de Milei, el PRO de Macri felicitó a Lula por su triunfo en Brasil",
-      "url": "https://www.perfil.com/noticias/politica/en-medio-del-silencio-de-milei-el-pro-de-macri-felicito-a-lula-por-su-triunfo-en-el-balotaje.phtml",
-      "source": "Perfil",
-      "publishedAt": "2026-10-26T14:17:49+00:00",
-      "publishedLabel": "26/10/2026"
-    },
-    {
-      "title": "El riojano Quintela recorrió barrios populares junto a los curas villeros",
-      "url": "https://www.perfil.com/noticias/politica/el-riojano-quintela-recorrio-barrios-populares-junto-a-los-curas-villeros.phtml",
-      "source": "Perfil",
-      "publishedAt": "2026-10-25T05:17:49+00:00",
-      "publishedLabel": "25/10/2026"
-    },
-    {
-      "title": "La basura enfrenta a Moyano y Jorge Macri: millones en juego y el temor de las empresas",
-      "url": "https://www.perfil.com/noticias/politica/la-basura-enfrenta-a-moyano-y-jorge-macri-millones-en-juego-y-el-temor-de-las-empresas.phtml",
-      "source": "Perfil",
-      "publishedAt": "2026-10-25T04:51:40+00:00",
-      "publishedLabel": "25/10/2026"
-    },
-    {
-      "title": "El plan B de Bullrich: candidatura, el juego con los Milei y el voto PRO republicano",
-      "url": "https://www.perfil.com/noticias/politica/el-plan-b-de-bullrich-candidatura-el-juego-con-los-milei-y-el-voto-pro-republicano.phtml",
-      "source": "Perfil",
-      "publishedAt": "2026-10-24T06:09:25+00:00",
-      "publishedLabel": "24/10/2026"
     }
   ]
 }
