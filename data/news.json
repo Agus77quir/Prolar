@@ -1,8 +1,15 @@
 {
-  "updatedAt": "2026-10-28T16:13:26-03:00",
-  "updatedLabel": "28/10/2026 16:13",
+  "updatedAt": "2026-10-29T16:22:03-03:00",
+  "updatedLabel": "29/10/2026 16:22",
   "source": "Perfil, Clarín, El Independiente — titulares y enlaces",
   "items": [
+    {
+      "title": "Lula le agradeció las felicitaciones a Macri con una chicana a Milei: \"Extraño los tiempos en que diferencias circunstanciales se discutían y se solucionaban de manera civilizada y republicana\"",
+      "url": "https://www.clarin.com/politica/lula-agradecio-macri-chicana-milei-extrano-tiempos-diferencias-circunstanciales-discutian-solucionaban-manera-civilizada-republicana_0_JwrFPHjanm.html",
+      "source": "Clarín",
+      "publishedAt": "2026-10-29T16:42:09+00:00",
+      "publishedLabel": "29/10/2026"
+    },
     {
       "title": "Juan Bautista Yofre: “Milei va a ser reelecto, Macri y Bullrich podrían ser embajadores”",
       "url": "https://perfil.com/modo-fontevecchia/juan-bautista-yofre-milei-va-a-ser-reelecto-macri-y-bullrich-podrian-ser-embajadores-aF4491j3QptK",
@@ -30,13 +37,6 @@
       "source": "Perfil",
       "publishedAt": "2026-05-18T16:11:50+00:00",
       "publishedLabel": "18/05/2026"
-    },
-    {
-      "title": "El PRO felicitó a Lula por su triunfo y se diferenció de Javier Milei",
-      "url": "https://nuevarioja.com.ar/politica/el-pro-felicito-a-lula-por-su-triunfo-y-se-diferencio-de-javier-milei.htm",
-      "source": "Nueva Rioja",
-      "publishedAt": "",
-      "publishedLabel": ""
     }
   ]
 }
