@@ -1,8 +1,15 @@
 {
-  "updatedAt": "2026-11-03T17:22:20-03:00",
-  "updatedLabel": "03/11/2026 17:22",
+  "updatedAt": "2026-11-04T17:37:55-03:00",
+  "updatedLabel": "04/11/2026 17:37",
   "source": "Perfil, Clarín, Nueva Rioja, El Independiente — titulares y enlaces",
   "items": [
+    {
+      "title": "“No vamos a permitir que estos delitos queden impunes”, afirmó Jorge Macri sobre el ataque a mujeres trans en Palermo",
+      "url": "https://nuevarioja.com.ar/internacionales/no-vamos-a-permitir-que-estos-delitos-queden-impunes-afirmo-jorge-macri-sobre-el-ataque-a-mujeres-trans-en-palermo.htm",
+      "source": "Nueva Rioja",
+      "publishedAt": "",
+      "publishedLabel": ""
+    },
     {
       "title": "Juan Bautista Yofre: “Milei va a ser reelecto, Macri y Bullrich podrían ser embajadores”",
       "url": "https://perfil.com/modo-fontevecchia/juan-bautista-yofre-milei-va-a-ser-reelecto-macri-y-bullrich-podrian-ser-embajadores-aF4491j3QptK",
@@ -30,13 +37,6 @@
       "source": "Perfil",
       "publishedAt": "2026-05-18T16:11:50+00:00",
       "publishedLabel": "18/05/2026"
-    },
-    {
-      "title": "El PRO se diferencia de los libertarios en Provincia y hasta Santilli se pronunció: \"Jamás vamos a apoyar la reelección indefinida de los intendentes”",
-      "url": "https://www.clarin.com/politica/pro-anticipa-discusion-bonaerense-vamos-acompanar-intento-reeleccion-indefinida-intendentes_0_lamsPXfLqa.html",
-      "source": "Clarín",
-      "publishedAt": "2026-11-02T16:45:14+00:00",
-      "publishedLabel": "02/11/2026"
     }
   ]
 }
