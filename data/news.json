@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-09T20:14:14-03:00",
-  "updatedLabel": "09/11/2026 20:14",
+  "updatedAt": "2026-11-10T17:40:00-03:00",
+  "updatedLabel": "10/11/2026 17:40",
   "source": "Perfil, Clarín, Nueva Rioja, El Independiente — titulares y enlaces",
   "items": [
+    {
+      "title": "Jorge Macri habló tras el escándalo por la carpa VIP",
+      "url": "https://www.elindependiente.com.ar/pagina.php?id=387089",
+      "source": "El Independiente",
+      "publishedAt": "",
+      "publishedLabel": ""
+    },
+    {
+      "title": "Jorge Macri habló de la carpa VIP en la misa del Papa en Palermo y admitió: “Las medialunas y budines estuvieron de más”",
+      "url": "https://www.clarin.com/politica/jorge-macri-hablo-carpa-vip-misa-papa-palermo-admitio-medialunas-budines_0_m5b2g0bFv8.html",
+      "source": "Clarín",
+      "publishedAt": "2026-11-10T13:45:36+00:00",
+      "publishedLabel": "10/11/2026"
+    },
     {
       "title": "Radicalismo Auténtico ratificó oposición a políticas de derecha sea Milei hoy o Macri",
       "url": "https://www.elindependiente.com.ar/pagina.php?id=386891",
@@ -23,20 +37,6 @@
       "source": "Perfil",
       "publishedAt": "2026-06-03T16:54:07+00:00",
       "publishedLabel": "03/06/2026"
-    },
-    {
-      "title": "María Eugenia Talerico: “Necesitamos que Macri se plante y sea la alternativa a Milei”",
-      "url": "https://perfil.com/modo-fontevecchia/maria-eugenia-talerico-necesitamos-que-macri-se-plante-y-sea-la-alternativa-a-milei-modof-axveC6f59eDs",
-      "source": "Perfil",
-      "publishedAt": "2026-05-29T17:25:57+00:00",
-      "publishedLabel": "29/05/2026"
-    },
-    {
-      "title": "Pablo Petrecca: “Me encantaría una PASO entre Macri y Milei”",
-      "url": "https://perfil.com/modo-fontevecchia/pablo-petrecca-me-encantaria-una-paso-entre-el-macri-y-milei-a1hVA9c5YnO6",
-      "source": "Perfil",
-      "publishedAt": "2026-05-19T14:09:32+00:00",
-      "publishedLabel": "19/05/2026"
     }
   ]
 }
