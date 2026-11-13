@@ -1,8 +1,15 @@
 {
-  "updatedAt": "2026-11-12T18:16:15-03:00",
-  "updatedLabel": "12/11/2026 18:16",
+  "updatedAt": "2026-11-13T17:42:52-03:00",
+  "updatedLabel": "13/11/2026 17:42",
   "source": "Perfil, Clarín, Nueva Rioja, El Independiente — titulares y enlaces",
   "items": [
+    {
+      "title": "Contrapunto entre la ex canciller de Macri y diplomáticos por la candidatura a la ONU de Rafael Grossi",
+      "url": "https://www.clarin.com/politica/contrapunto-ex-canciller-macri-diplomaticos-candidatura-onu-rafael-grossi_0_1XKXi9lDU2.html",
+      "source": "Clarín",
+      "publishedAt": "2026-11-13T17:57:00+00:00",
+      "publishedLabel": "13/11/2026"
+    },
     {
       "title": "Jorge Macri habló tras el escándalo por la carpa VIP",
       "url": "https://www.elindependiente.com.ar/pagina.php?id=387089",
@@ -30,13 +37,6 @@
       "source": "Clarín",
       "publishedAt": "2026-11-05T18:44:15+00:00",
       "publishedLabel": "05/11/2026"
-    },
-    {
-      "title": "Juan Bautista Yofre: “Milei va a ser reelecto, Macri y Bullrich podrían ser embajadores”",
-      "url": "https://perfil.com/modo-fontevecchia/juan-bautista-yofre-milei-va-a-ser-reelecto-macri-y-bullrich-podrian-ser-embajadores-aF4491j3QptK",
-      "source": "Perfil",
-      "publishedAt": "2026-06-03T16:54:07+00:00",
-      "publishedLabel": "03/06/2026"
     }
   ]
 }
