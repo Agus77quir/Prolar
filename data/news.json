@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-14T15:55:02-03:00",
-  "updatedLabel": "14/11/2026 15:55",
+  "updatedAt": "2026-11-15T16:30:31-03:00",
+  "updatedLabel": "15/11/2026 16:30",
   "source": "Perfil, Clarín, Nueva Rioja, El Independiente — titulares y enlaces",
   "items": [
+    {
+      "title": "El jefe del PRO en el Senado puso en duda que el Gobierno tenga los votos para suspender las PASO: “No lo veo tan certero”",
+      "url": "https://www.clarin.com/politica/jefe-pro-senado-puso-duda-gobierno-votos-suspender-paso-veo-certero_0_gIEDIWARto.html",
+      "source": "Clarín",
+      "publishedAt": "2026-11-15T15:21:43+00:00",
+      "publishedLabel": "15/11/2026"
+    },
+    {
+      "title": "Semana caliente: Karina reúne a la mesa política, Macri pide garantías para un acuerdo y más provincias adelantan sus elecciones",
+      "url": "https://www.clarin.com/politica/semana-caliente-karina-reune-mesa-politica-macri-pide-garantias-acuerdo-provincias-adelantan-elecciones_0_KNDX21PUFM.html",
+      "source": "Clarín",
+      "publishedAt": "2026-11-15T09:01:11+00:00",
+      "publishedLabel": "15/11/2026"
+    },
     {
       "title": "Contrapunto entre la ex canciller de Macri y diplomáticos por la candidatura a la ONU de Rafael Grossi",
       "url": "https://www.clarin.com/politica/contrapunto-ex-canciller-macri-diplomaticos-candidatura-onu-rafael-grossi_0_1XKXi9lDU2.html",
@@ -23,20 +37,6 @@
       "source": "Clarín",
       "publishedAt": "2026-11-10T13:45:36+00:00",
       "publishedLabel": "10/11/2026"
-    },
-    {
-      "title": "Radicalismo Auténtico ratificó oposición a políticas de derecha sea Milei hoy o Macri",
-      "url": "https://www.elindependiente.com.ar/pagina.php?id=386891",
-      "source": "El Independiente",
-      "publishedAt": "",
-      "publishedLabel": ""
-    },
-    {
-      "title": "Mauricio Macri admitió que está en un \"lugar incómodo\" por la falta de liderazgo en el PRO y le pidió al Gobierno construir confianza para evitar un regreso K",
-      "url": "https://www.clarin.com/politica/mauricio-macri-admitio-lugar-incomodo-falta-liderazgo-pro-pidio-gobierno-construir-confianza-evitar-regreso-k_0_yZ6qX8uR96.html",
-      "source": "Clarín",
-      "publishedAt": "2026-11-05T18:44:15+00:00",
-      "publishedLabel": "05/11/2026"
     }
   ]
 }
