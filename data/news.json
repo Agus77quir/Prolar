@@ -1,8 +1,15 @@
 {
-  "updatedAt": "2026-11-15T16:30:31-03:00",
-  "updatedLabel": "15/11/2026 16:30",
+  "updatedAt": "2026-11-16T20:08:57-03:00",
+  "updatedLabel": "16/11/2026 20:08",
   "source": "Perfil, Clarín, Nueva Rioja, El Independiente — titulares y enlaces",
   "items": [
+    {
+      "title": "En medio de negociaciones por 2027, Mauricio Macri enfría el vínculo con el Gobierno y se distancia de su primo Jorge",
+      "url": "https://www.clarin.com/politica/medio-negociaciones-2027-mauricio-macri-enfria-vinculo-gobierno-distancia-primo-jorge_0_9vKibX7gUK.html",
+      "source": "Clarín",
+      "publishedAt": "2026-11-16T09:01:26+00:00",
+      "publishedLabel": "16/11/2026"
+    },
     {
       "title": "El jefe del PRO en el Senado puso en duda que el Gobierno tenga los votos para suspender las PASO: “No lo veo tan certero”",
       "url": "https://www.clarin.com/politica/jefe-pro-senado-puso-duda-gobierno-votos-suspender-paso-veo-certero_0_gIEDIWARto.html",
@@ -30,13 +37,6 @@
       "source": "El Independiente",
       "publishedAt": "",
       "publishedLabel": ""
-    },
-    {
-      "title": "Jorge Macri habló de la carpa VIP en la misa del Papa en Palermo y admitió: “Las medialunas y budines estuvieron de más”",
-      "url": "https://www.clarin.com/politica/jorge-macri-hablo-carpa-vip-misa-papa-palermo-admitio-medialunas-budines_0_m5b2g0bFv8.html",
-      "source": "Clarín",
-      "publishedAt": "2026-11-10T13:45:36+00:00",
-      "publishedLabel": "10/11/2026"
     }
   ]
 }
