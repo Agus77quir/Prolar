@@ -1,8 +1,15 @@
 {
-  "updatedAt": "2026-11-16T20:08:57-03:00",
-  "updatedLabel": "16/11/2026 20:08",
+  "updatedAt": "2026-11-17T18:58:22-03:00",
+  "updatedLabel": "17/11/2026 18:58",
   "source": "Perfil, Clarín, Nueva Rioja, El Independiente — titulares y enlaces",
   "items": [
+    {
+      "title": "Macri reunió al PRO y acompañará la suspensión de las PASO",
+      "url": "https://www.elindependiente.com.ar/pagina.php?id=387348",
+      "source": "El Independiente",
+      "publishedAt": "",
+      "publishedLabel": ""
+    },
     {
       "title": "En medio de negociaciones por 2027, Mauricio Macri enfría el vínculo con el Gobierno y se distancia de su primo Jorge",
       "url": "https://www.clarin.com/politica/medio-negociaciones-2027-mauricio-macri-enfria-vinculo-gobierno-distancia-primo-jorge_0_9vKibX7gUK.html",
@@ -30,13 +37,6 @@
       "source": "Clarín",
       "publishedAt": "2026-11-13T17:57:00+00:00",
       "publishedLabel": "13/11/2026"
-    },
-    {
-      "title": "Jorge Macri habló tras el escándalo por la carpa VIP",
-      "url": "https://www.elindependiente.com.ar/pagina.php?id=387089",
-      "source": "El Independiente",
-      "publishedAt": "",
-      "publishedLabel": ""
     }
   ]
 }
