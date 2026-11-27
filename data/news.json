@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-26T19:43:49-03:00",
-  "updatedLabel": "26/11/2026 19:43",
+  "updatedAt": "2026-11-27T19:26:33-03:00",
+  "updatedLabel": "27/11/2026 19:26",
   "source": "Perfil, Clarín, Nueva Rioja, El Independiente — titulares y enlaces",
   "items": [
+    {
+      "title": "Mauricio Macri invitó a Patricia Bullrich al estreno de su documental",
+      "url": "https://www.perfil.com/politica/mauricio-macri-invito-a-patricia-bullrich-al-estreno-de-su-documental-aoFAQ4w5ppUC",
+      "source": "Perfil",
+      "publishedAt": "2026-11-27T21:48:00+00:00",
+      "publishedLabel": "27/11/2026"
+    },
+    {
+      "title": "Puma cerró su planta de Chamical en La Rioja y despidió a 50 trabajadores",
+      "url": "https://www.perfil.com/economia/puma-cerro-su-planta-de-chamical-en-la-rioja-y-despidio-a-50-trabajadores-aeCUw4x2KFA4",
+      "source": "Perfil",
+      "publishedAt": "2026-11-27T20:04:31+00:00",
+      "publishedLabel": "27/11/2026"
+    },
+    {
+      "title": "Nueva encuesta: sorpresa con los datos de Cristina Kirchner, Mauricio Macri y Victoria Villarruel",
+      "url": "https://www.clarin.com/politica/nueva-encuesta-sorpresa-datos-cristina-kirchner-mauricio-macri-victoria-villarruel_0_mShPWoaJKk.html",
+      "source": "Clarín",
+      "publishedAt": "2026-11-27T09:00:25+00:00",
+      "publishedLabel": "27/11/2026"
+    },
+    {
+      "title": "Jorge Macri despidió a un funcionario y pasó a disponibilidad a policías tras el operativo en el deck de Caballito",
+      "url": "https://www.perfil.com/politica/jorge-macri-despidio-a-un-funcionario-y-paso-a-disponibilidad-a-policias-tras-el-operativo-en-el-deck-de-caballito-aPMNA1X4wLlP",
+      "source": "Perfil",
+      "publishedAt": "2026-11-27T03:00:08+00:00",
+      "publishedLabel": "27/11/2026"
+    },
     {
       "title": "El director del documental del gobierno de Macri contó los entretelones de la defensa de la gobernabilidad y los momentos de crisis",
       "url": "https://www.perfil.com/modo-fontevecchia/el-director-del-documental-del-gobierno-de-macri-conto-los-entretelones-de-la-defensa-de-la-gobernabilidad-y-los-momentos-de-crisis-aGhg10n55MqB",
       "source": "Perfil",
       "publishedAt": "2026-11-26T19:24:14+00:00",
       "publishedLabel": "26/11/2026"
-    },
-    {
-      "title": "“¿Ustedes creían que esto iba a ser fácil?”, Mauricio Macri presentó el tráiler de un documental sobre su Gobierno",
-      "url": "https://www.perfil.com/politica/ustedes-creian-que-esto-iba-a-ser-facil-mauricio-macri-presento-el-trailer-de-un-documental-sobre-su-gobierno-afRvg8f2L6Ea",
-      "source": "Perfil",
-      "publishedAt": "2026-11-25T16:04:11+00:00",
-      "publishedLabel": "25/11/2026"
-    },
-    {
-      "title": "Jorge Macri achica el gabinete porteño: eliminó el Ministerio de Espacio Público y 118 cargos jerárquicos",
-      "url": "https://www.perfil.com/politica/jorge-macri-achica-el-gabinete-porteno-elimino-el-ministerio-de-espacio-publico-y-118-cargos-jerarquicos-a19SP9b8sBA8",
-      "source": "Perfil",
-      "publishedAt": "2026-11-25T14:29:15+00:00",
-      "publishedLabel": "25/11/2026"
-    },
-    {
-      "title": "Macri reunió al PRO y acompañará la suspensión de las PASO",
-      "url": "https://www.elindependiente.com.ar/pagina.php?id=387348",
-      "source": "El Independiente",
-      "publishedAt": "",
-      "publishedLabel": ""
-    },
-    {
-      "title": "En medio de negociaciones por 2027, Mauricio Macri enfría el vínculo con el Gobierno y se distancia de su primo Jorge",
-      "url": "https://www.clarin.com/politica/medio-negociaciones-2027-mauricio-macri-enfria-vinculo-gobierno-distancia-primo-jorge_0_9vKibX7gUK.html",
-      "source": "Clarín",
-      "publishedAt": "2026-11-16T09:01:26+00:00",
-      "publishedLabel": "16/11/2026"
     }
   ]
 }
